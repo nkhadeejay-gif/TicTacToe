@@ -1,7 +1,9 @@
 # Simple Tic-Tac-Toe Game with Java Swing, Login, and Statistics
 ## Student Information
 Name: Noura Khadeeja Yuniarto
+
 Student ID: 5026251169
+
 Class: E
 ## Project Description
 This project is a simple Tic-Tac-Toe game built using Java Swing.

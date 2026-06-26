@@ -45,5 +45,16 @@ StatisticsFrame: Displays the logged-in player's statistics, including the total
 
 TopScorersFrame: Displays the Top 5 players ranked by score using a JTable. The leaderboard data is retrieved from the MySQL database and sorted in descending order based on player score.
 
+## Screenshot
+<img width="394" height="249" alt="Login Panel" src="https://github.com/user-attachments/assets/1045109c-cf58-4e63-bc08-64cab45ec717" />
+<img width="324" height="172" alt="Invalid User:Password Panel" src="https://github.com/user-attachments/assets/06560b96-ed1b-429e-bae2-1200856df077" />
+<img width="260" height="172" alt="Valid User   Password" src="https://github.com/user-attachments/assets/4f65fcf7-d600-40b9-ba71-dd8efb35a333" />
+<img width="399" height="344" alt="Main Menu Panel" src="https://github.com/user-attachments/assets/5888a1a5-a176-47a4-ba85-2d58aebf0dd1" />
+<img width="400" height="500" alt="Game Playing Panel" src="https://github.com/user-attachments/assets/64debc09-424a-4501-b59e-c7b0e7273a67" />
+<img width="261" height="175" alt="Lose Panel" src="https://github.com/user-attachments/assets/cade4c3b-4c5a-4a4f-b38d-80afd7288ec9" />
+<img width="260" height="172" alt="Win Panel" src="https://github.com/user-attachments/assets/b1251abc-c443-4c64-92b7-61d8e0243cdf" />
+<img width="300" height="247" alt="Statistics Panel" src="https://github.com/user-attachments/assets/aa3488b8-9fbe-4072-948f-d67e29ef7041" />
+<img width="502" height="298" alt="Top Scoreboard Panel" src="https://github.com/user-attachments/assets/d872935c-6c87-45dc-9b77-278c5d961164" />
+
 ## Video Link
-YouTube: https://youtu.be/XDENXZrLjqs
+YouTube: [https://youtu.be/XDENXZrLjqs](https://youtu.be/s4cQ3rz9QVw)

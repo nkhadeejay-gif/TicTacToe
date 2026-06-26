@@ -38,4 +38,4 @@ TopScorersFrame:
 ## Screenshots
 Add screenshots here.
 ## Video Link
-YouTube:
+YouTube: https://youtu.be/XDENXZrLjqs
